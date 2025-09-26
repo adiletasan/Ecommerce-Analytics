@@ -33,7 +33,8 @@ The project will evolve step by step throughout the trimester. Each assignment w
 
 🖼️ Screenshot
 
-(Temporary placeholder — will be updated with ER diagram or analytics dashboard later)
+<img width="1373" height="513" alt="image" src="https://github.com/user-attachments/assets/e878fbf1-baca-454d-91f9-2b6d77e7f4da" />
+
 
 
 
@@ -98,3 +99,4 @@ Version Control: GitHub
 Diagram Tool: dbdiagram.io / Draw.io for ER diagrams
 
 Dataset Source: Kaggle Open E-Commerce Dataset (Orders, Customers, Products, Sellers, Payments)
+
