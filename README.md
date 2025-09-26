@@ -38,6 +38,7 @@ The project will evolve step by step throughout the trimester. Each assignment w
 
 
 ⚙️ Step-by-Step Instructions
+
 1️⃣ Setup Database
 
 Install MySQL or PostgreSQL.
